@@ -1,4 +1,4 @@
-package twc;
+package resources;
 
 import io.quarkus.test.junit.QuarkusIntegrationTest;
 
