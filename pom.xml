@@ -46,7 +46,7 @@
         <!--security-->
         <dependency>
             <groupId>io.quarkus</groupId>
-            <artifactId>quarkus-elytron-security-oauth2</artifactId>
+            <artifactId>quarkus-oidc-client</artifactId>
         </dependency>
         <dependency>
             <groupId>io.quarkus</groupId>
